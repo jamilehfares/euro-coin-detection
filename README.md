@@ -1,6 +1,6 @@
 # Euro Coin Detection and Classification
 
-## Project Overview
+## Project Overview:
 This project aims to develop an automatic coin detection system that identifies euro coins in images and calculates their total monetary value. The system utilizes computer vision techniques, specifically the Hough Transform for circle detection, and a neural network for classification of the detected coins.
 
 ## Objectives
